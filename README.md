@@ -1,4 +1,9 @@
 - 👋 Hi, I’m Harsha 
+- Known Languages
+  * HTML
+  * CSS
+  * C#
+  * Python
 - 📩 All SQLZOO website quiz solutions were posted in ([SOLUTIONS-SQLZOO.md](https://github.com/Harshak-1744/SQLZOO-solutions/blob/main/SOLUTIONS-SQLZOO.md))
 - 🌱 I’m currently learning MySQL...
 - 🌙Will develop a full-stack project that covers HTML, CSS (front-end), Django (server), and MYSQL (database).
